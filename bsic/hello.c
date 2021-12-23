@@ -4,7 +4,7 @@
 #include <linux/moduleparam.h>
 #include <linux/errno.h>
 
-MODULE_AUTHOR("Dmytro Tymochko <dima.tymochko@gmail.com>");
+MODULE_AUTHOR("Vika Babenko");
 MODULE_DESCRIPTION("Hello, world in Linux Kernel Training");
 MODULE_LICENSE("Dual BSD/GPL");
 
